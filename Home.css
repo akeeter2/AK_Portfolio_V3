@@ -1,0 +1,224 @@
+#Wrapper1
+/* This is the style for the wrapper */
+{
+	/*backgroud: url("HP.jpg")*/
+
+	width: 100%;	 
+	margin: 0 auto;
+	padding:2px;
+	
+	
+
+}
+#header
+{
+	width: 70%;	 
+	margin: 0 auto;
+	padding:2px;
+}
+nav
+{
+	align-content:center;
+	/*background-color: black;*/
+	color:white;
+	width: 100%;
+	height:50px;
+	text-align: center;
+	/*padding:100px 40px 20px 40px; /*top,right,bottom,left*/
+}
+nav a
+{
+	color:black;
+}
+
+li {
+	display: inline-block;
+}
+
+li a {
+	text-decoration: none;
+	padding: 10px 20px;
+}
+ nav ul
+ {
+ 	padding:0;
+ }
+.brand
+{
+	float: center;
+	color:black;
+	margin:20px;
+	background:;
+
+
+}
+.logo
+{
+
+}
+
+#bkg {
+background-color:#E3AFA4;
+width: 100%;
+height: 400px;
+position: center;
+margin-top: 25px;
+
+}
+
+.HeadingPhoto
+{
+	text-align: center;
+}
+
+.HeadingPhoto img{
+	width: 10%;
+	padding-top:20px;
+}
+
+.MyWorks_HeadingDescription
+{
+	text-align: center;
+}
+#video 
+{
+
+/*HELP RIGHT HERE. I WANT VIDEO CENTERED*/
+}
+
+
+#nav
+{
+	float: right;
+	z-index:1;
+	text-align:right; 
+	overflow:auto; 
+}
+
+#center
+{
+
+
+}
+
+#content
+{
+	
+	width: 320px;
+	margin:0 auto;
+}
+#main
+{
+
+	/*border: 1px solid black;*/
+	width: 100%;	 
+	margin: 0 auto;
+	/*padding:2px;*/
+	float:left;
+	padding:100px 40px 20px 40px; /*top,right,bottom,left*/ 
+
+   
+}
+
+#middle
+{
+	padding:50px 40px 20px 80px;
+
+}
+
+footer
+{
+	background:blue;
+	float: left;
+   margin: 10px;
+   max-width: 
+   max-height:70%;
+   padding: 10px;
+	
+}
+.buttons
+{
+	background-color: red;
+	height:200px;
+	width:200px;
+	z-index:1;
+	position:10;
+	margin:auto;
+	overflow:auto;
+
+	cursor:pointer;
+}
+
+#images {
+	text-align: center;
+
+}
+
+#images li {
+	display:inline-block;
+	padding: 0px 10px;
+	height: 300px;
+	width: 300px;
+}
+
+#images li img {
+	height: 200px;
+	width: 200px;
+}
+
+.video-container{
+	width: 100%;
+	padding: 20px
+	padding-top: 40px;
+	float: left;
+}
+
+.video-container li {
+	display:inline-block;
+	padding: 20px;
+}
+
+.video-container ul{
+	text-align:center;
+	position:center;
+	margin:auto;
+}
+
+.video-container video {
+	height: 300px;
+	width:500px;
+}
+.video, .description
+{
+	/*float:left;*/
+}
+.description
+{
+/*padding:50px 20px;*/
+/*font-size: 1em;*/
+}
+.video_2
+{
+	padding:2px;
+
+}
+#column_1
+{
+	float:left; 
+	width:35%;
+	padding-left:15%;
+	padding-top: 2%;
+	padding-left:5%;/*top,right,bottom,left*/
+}
+#column_2
+{
+	float:right;
+	width:35%;
+	padding-right:10%;
+	padding-top: 2%;
+}
+
+.HS ul
+{
+width:30%;
+}
